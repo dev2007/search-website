@@ -31,6 +31,7 @@ export default function Home(): JSX.Element {
       title="ElasticSearch Client"
       description="Be the best Elasticsearch client."
     >
+      <div className="h-screen flex flex-col justify-between">
       <main className="p-4 md:pt-32">
         <div className="mx-2 md:mx-20 px-3 first">
           <div className="grid grid-rows-1">
@@ -150,6 +151,7 @@ export default function Home(): JSX.Element {
           </Translate>
         </span>
       </footer>
+      </div>
     </Layout>
   );
 }
