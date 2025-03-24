@@ -59,6 +59,9 @@ export default function Home(): JSX.Element {
                     <span>
                       <Translate description="win down btn">Download</Translate>
                     </span>
+                    <span>
+                      <Translate description="version">v0.1.0</Translate>
+                    </span>
                   </button>
                   <button
                     className="flex items-center space-x-2 border  px-4 py-2 rounded-3xl transition duration-300 ease-in-out hover:text-white hover:bg-[#fa65b1]"
@@ -67,6 +70,9 @@ export default function Home(): JSX.Element {
                     <FaApple size={32} />
                     <span>
                       <Translate description="mac down btn">Download</Translate>
+                    </span>
+                    <span>
+                      <Translate description="version">v0.1.0</Translate>
                       <Translate description="unverify desc">
                         (Unverified)
                       </Translate>
