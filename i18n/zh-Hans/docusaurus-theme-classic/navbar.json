@@ -1,0 +1,18 @@
+{
+  "title": {
+    "message": "JointSearch",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "jointsearch Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Home": {
+    "message": "首页",
+    "description": "Navbar item with label Home"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}
